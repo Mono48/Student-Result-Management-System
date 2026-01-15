@@ -64,6 +64,4 @@ The system will be retired when it becomes obsolete or is replaced by a more adv
 **Name:** Ikeora Michael  
 **Course:** SEN 201 – Software Engineering
 **Matric Number:** 24/14373
-**Name:** Ikeora Michael  
-**Course:** SEN 201 – Software Engineering
-**Matric No:** 24/14373
+
