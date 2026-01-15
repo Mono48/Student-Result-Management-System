@@ -1,7 +1,7 @@
 # Student Result Management System
 
 ## Project Overview
-The Student Result Management System is a simple, console-based application developed as part of the SEN 201 (Software Engineering) assignment.  
+The Student Result Management System is a simple, console-based application.  
 The system allows users to enter student details, calculate grades based on scores, and display stored student results.
 
 This project demonstrates the practical application of the Software Development Life Cycle (SDLC), from requirement analysis to retirement.
